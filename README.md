@@ -1,6 +1,6 @@
 # NOVA — Loja Online de Demonstração
 
-Loja online de exemplo construída com Next.js, React, TypeScript e Tailwind CSS.
+Loja online como exemplo construída com Next.js, React, TypeScript e Tailwind CSS.
 
 **[Ver loja ao vivo](https://app-six-mu-67.vercel.app/)**
 
